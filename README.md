@@ -42,6 +42,12 @@ Hugging Face Hub	Stores and retrieves AI models
 🌟 **Final Outcome:**
 A fun, interactive AI tool that allows users to turn any photo into stunning anime art, making AI-driven creativity accessible to everyone! 🎭✨
 
+**License**
+
+This project is licensed under MIT License
+
+Copyright (c) 2025 Poorvi Shrivastava
+
 Would you like to expand the project with additional features or customizations? 🚀😊
 💡 Want to contribute? Feel free to fork, star ⭐, and raise issues!
 🔗 **Connect with me:** https://www.linkedin.com/in/poorvi-shrivastava-4a34a9256/
